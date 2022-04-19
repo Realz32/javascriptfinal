@@ -1,0 +1,2 @@
+export const dataEnJson = 
+    '[{"id":1, "titulo":"Ford","precio":5000,"stock":4,"descuento":5},{"id":2,"titulo":"Renault","precio":4000,"stock":5,"descuento":7},{"id":3,"titulo":"Fiat","precio":3000, "stock":8,"descuento":9}]'

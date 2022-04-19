@@ -1,0 +1,23 @@
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.general  {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.listaAutos{
+    background-color: aquamarine;
+}
+
+.subtit {
+    color: blue;
+}
